@@ -5,6 +5,7 @@ is `17` and if it is, then return from the function instead of calling `NtSetInf
 TBH, am still a noob at this so I have no other ideas on how to bypass this but this works I guess lmao.
 
 ## How to build
+You will need the nightly compiler
 ```
 cargo build --release
 ```
